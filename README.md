@@ -1,1 +1,2 @@
 # Template-Table-CS355
+This project defines a template-class representing a Table. Table<T> contains many functions, and was required to work with a number of functions, functions contained in main.cpp.
